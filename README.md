@@ -1,2 +1,1 @@
-# DSCI-631-A2
-This repositoty has been made to upload the dataset from it to use for A-1 assignment in DSCE-631
+In this repository you can find the different implementations of ML models to predict housing and property price predictions. All the information are provided as comment in the jupiter Notebook as well as info to get the dataset
